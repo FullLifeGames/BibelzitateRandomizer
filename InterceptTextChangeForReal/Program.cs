@@ -30,6 +30,11 @@ namespace InterceptTextChangeForReal
             //TODO: Try to fix them
             @"\xF000븁\x0000",
             @"\xF000븀\x0000",
+            @"\xF000Ă\x0001\x0000",
+            @"\xF000Ă\x0001\x0001",
+            @"\xF000Ă\x0001\x0002",
+            @"\xF000ĉ\x0001\x0001",
+
        //     @"\c"
         };
         static string defaultText = "Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat Bibelzitat";
